@@ -1,0 +1,212 @@
+
+html {
+    border-style:   outset;
+}
+
+#headfirst {
+    border-bottom:  outset;
+}
+
+th {
+    text-align: left;
+}
+
+td{
+    height: 20px;
+    vertical-align: bottom;
+
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+
+.tablinks {
+	width: 200px;
+	height: 50px;
+    padding: 0px 20px 30px 50px;
+    top: -60px;
+    left:	1190px;
+    background-color: #4B86C6;
+    border-radius: 10%;
+    position: relative;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+   font-size: 15px;
+   text-transform: capitalize;
+   color: white;
+   padding: 0px;
+
+}
+#table1, #table2, #table3 {
+    border-collapse: collapse;
+}
+
+h1 {
+	color: black;
+	left:	20px;
+
+}
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+
+
+#table1 {
+    min-width: 850px;
+}
+
+#table2, #table3 {
+    min-width: 700px;
+}
+
+#otable {
+    min-width: 1410px;
+}
+
+
+
+
+.mid {
+    color: white;
+}
+
+#hf p {
+    margin-left: 1250px;
+}
+
+#p1 {
+    position: relative;
+    top: 95px;
+    margin-left: 1275px;
+}
+#p2 {
+    margin-left: 560px;
+}
+
+#videov {
+    position: relative;
+    margin-right: 120px;
+    top: 135px;
+}
+#postv {
+    position: relative;
+    margin-left: 740px;
+    top:    40px;
+}
+
+#img1 {
+    width: 1410px;
+    object-fit: cover;
+}
+#img {
+    width: 560px;
+    height: 535px;
+}
+
+
+
+table, th, td {
+    border: 0.5px solid black;
+
+
+}
+
+
+#trcolor {
+    background: #EFF3F7;
+}
+.flexed {
+    display: flex;
+
+}
+
+#first {
+    background: #ECECEC;
+    border-radius: 10%;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 6px 2px;
+    cursor: pointer;
+}
+#second {
+    background: #ECECEC;
+    border-radius: 10%;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 6px 2px;
+    cursor: pointer;
+}
+#select1 {
+    margin: 6px 2px;
+    font-size: 16px;
+    padding: 10px;
+}
+
+#dates {
+    font-size: 16px;
+}
+
+.group {
+    margin-left: 990px;
+
+}
+.boxblue{
+    width: 20px;
+    height: 20px;
+    Background-color: blue;
+
+}
+.boxgreen{
+    width: 20px;
+    height: 20px;
+    Background-color: green;
+
+}
+.boxyellow{
+    width: 20px;
+    height: 20px;
+    Background-color: yellow;
+
+}
+.boxorange{
+    width: 20px;
+    height: 20px;
+    Background-color: orange;
+
+}
+.boxred{
+    width: 20px;
+    height: 20px;
+    Background-color: red;
+
+}
+.boxpurple{
+    width: 20px;
+    height: 20px;
+    Background-color: purple;
+
+}
+.boxgrape{
+    width: 20px;
+    height: 20px;
+    Background-color: #a854c9;
+
+}
+#geo {
+    position: relative;
+    margin-right: 600px;
+    top: 40px;
+}
