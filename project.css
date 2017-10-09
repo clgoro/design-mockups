@@ -124,6 +124,8 @@ table, th, td {
 }
 .flexed {
     display: flex;
+    justify-content: space-between;
+    display: -webkit-fex;
 
 }
 
